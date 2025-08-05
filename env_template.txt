@@ -1,0 +1,5 @@
+# API Keys for Groq Pipeline
+# Copy this to .env and fill in your actual API keys
+
+DEEPGRAM_API_KEY=your_deepgram_api_key_here
+GROQ_API_KEY=your_groq_api_key_here 

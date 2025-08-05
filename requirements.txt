@@ -1,0 +1,7 @@
+groq>=0.4.0
+sounddevice>=0.4.6
+websockets>=11.0.3
+python-dotenv>=1.0.0
+asyncio
+uuid
+typing 
