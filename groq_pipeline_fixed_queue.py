@@ -182,6 +182,7 @@ class GroqPipeline:
             self.context.add_assistant_message(llm_response)
             
             return llm_response
+    
             
         except Exception as e:
             print(f"Error in LLM processing: {e}")
